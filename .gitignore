@@ -1,0 +1,5 @@
+# eclipse stuffs
+bin/*
+
+# mac stuffs
+*.DS_Store
